@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "trayaApp",
+    "slug": "trayaApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "trayaApp"
+}
