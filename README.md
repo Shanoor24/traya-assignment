@@ -39,8 +39,18 @@ Once downloaded, transfer the APK file to your Android device and follow the dev
 Here are some screenshots of the Traya Feedback App:
 
 ![Screenshot 1][Loading screen](https://github.com/Shanoor24/traya-assignment/assets/77038788/d8e6c68a-6d9c-4711-97b1-886b4c9a62d2)
+![Screenshot 1][Login screen](https://github.com/Shan![Login screen](https://github.com/Shanoor24/traya-assignment/assets/77038788/36f0a799-27db-4aa0-b928-93af2f94b185)
+![Signup screen](https://github.com/Shanoor24/traya-assignment/assets/77038788/6a0a49fd-4e7a-4a38-99a5-5d53cbfd601d)
+![Registration successful](https://github.com/Shanoor24/traya-assignment/assets/77038788/998b3ace-d2cd-438d-abe7-81d723fc2aa8)
+![Dashboard](https://github.com/Shanoor24/traya-assignment/assets/77038788/e33e3df1-8047-496c-8f62-40a8732787c0)
+![Rating](https://github.com/Shanoor24/traya-assignment/assets/77038788/90f59292-334c-4272-8959-7fc9976d0abb)
+![Review](https://github.com/Shanoor24/traya-assignment/assets/77038788/90536cd6-3120-45b5-968f-19b12e84a590)
+![My review](https://github.com/Shanoor24/traya-assignment/assets/77038788/eeca5291-4e05-46e6-b38b-e7b51a28c583)
+![My review](https://github.com/Shanoor24/traya-assignment/assets/77038788/d06aad1e-26bc-47a8-b7a3-df41c5531152)
 
-*Loading Screen*
 
-![Screenshot 2](screenshots/Loadingscreen.jpeg)
-*Caption for Screenshot 2*
+
+
+
+
+
