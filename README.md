@@ -42,5 +42,5 @@ Here are some screenshots of the Traya Feedback App:
 
 *Loading Screen*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/Loadingscreen.jpeg)
 *Caption for Screenshot 2*
