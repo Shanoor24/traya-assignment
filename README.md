@@ -26,6 +26,6 @@ This is an app that allows users to provide feedback for the Traya product and s
 
 To install the Traya Feedback App on an Android device, you can download the APK file from the following link:
 
-- [Download Traya Feedback App APK](link_to_apk_file)
+- [Download Traya Feedback App APK](https://drive.google.com/drive/folders/13907GLbhBeIo1jjSExwTk6v1F_OcKHBB?usp=drive_link)
 
 Once downloaded, transfer the APK file to your Android device and follow the device-specific instructions to install the app.
